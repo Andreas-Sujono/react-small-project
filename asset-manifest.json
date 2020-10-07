@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-small-project/todoapp/static/css/main.6b63baf4.chunk.css",
-  "main.js": "/react-small-project/todoapp/static/js/main.9b539e40.chunk.js",
-  "main.js.map": "/react-small-project/todoapp/static/js/main.9b539e40.chunk.js.map",
-  "runtime~main.js": "/react-small-project/todoapp/static/js/runtime~main.e41dcd94.js",
-  "runtime~main.js.map": "/react-small-project/todoapp/static/js/runtime~main.e41dcd94.js.map",
-  "static/js/2.4e81ba5b.chunk.js": "/react-small-project/todoapp/static/js/2.4e81ba5b.chunk.js",
-  "static/js/2.4e81ba5b.chunk.js.map": "/react-small-project/todoapp/static/js/2.4e81ba5b.chunk.js.map",
-  "index.html": "/react-small-project/todoapp/index.html",
-  "precache-manifest.c342aa9fe1215d5ffd88b0610978c098.js": "/react-small-project/todoapp/precache-manifest.c342aa9fe1215d5ffd88b0610978c098.js",
-  "service-worker.js": "/react-small-project/todoapp/service-worker.js",
-  "static/css/main.6b63baf4.chunk.css.map": "/react-small-project/todoapp/static/css/main.6b63baf4.chunk.css.map"
+  "main.css": "/react-small-project/static/css/main.6b63baf4.chunk.css",
+  "main.js": "/react-small-project/static/js/main.9b539e40.chunk.js",
+  "main.js.map": "/react-small-project/static/js/main.9b539e40.chunk.js.map",
+  "runtime~main.js": "/react-small-project/static/js/runtime~main.fc807931.js",
+  "runtime~main.js.map": "/react-small-project/static/js/runtime~main.fc807931.js.map",
+  "static/js/2.4e81ba5b.chunk.js": "/react-small-project/static/js/2.4e81ba5b.chunk.js",
+  "static/js/2.4e81ba5b.chunk.js.map": "/react-small-project/static/js/2.4e81ba5b.chunk.js.map",
+  "index.html": "/react-small-project/index.html",
+  "precache-manifest.3eb639d72dd6972b744102bdb4a3e838.js": "/react-small-project/precache-manifest.3eb639d72dd6972b744102bdb4a3e838.js",
+  "service-worker.js": "/react-small-project/service-worker.js",
+  "static/css/main.6b63baf4.chunk.css.map": "/react-small-project/static/css/main.6b63baf4.chunk.css.map"
 }
